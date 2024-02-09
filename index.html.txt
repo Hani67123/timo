@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<htnml lang="en">
+    
+<head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width,initial-scale=1.0">
+      <title>MT CV</title>
+      <link rel="stylesheet" hefr="style.css">
+      <link href=
+      <!-- ???? css -->
+</head>
+      
+
+
+
+<body>
+   
+     
+     <header class="header">
+         <a herf="#" class="logo">Hani.</a>
+         
+         <nav class="navbar">
+              <a href="#" class="active">Home</a>
+              <a href="#">About</a>
+              <a href="#">Services</a>
+              <a href="#">Protfolio</a>
+              <a href="#">Contact</a>
+         </nav>
+      </header>    
+      
+      <section class="home">
+       <div class="home-content">
+           <h1>Hi, i'm Hani Yasir</h1>
+           <h3>Frontend Developer</h3>
+           <p>lorem ipsum dolor sit amet consectetur adipisicing elit. laborum, voluptatibus. id numquam, maiores obcaecati architecto voluptas voluptate, facere iusto asperiores accusamus dighnissimos quibusdam voluptates, exercitationem reprehenderit eaque.</p>
+           <div class="btn-box">
+               <a href="#">Hire Me</a>
+               <a hred="#">Let's Talk<a/> 
+           </div>
+        </div>
+        
+        <div class="home-sci">
+              <a href="#"><i class='  <!-- link css --> '></i></a>
+              <a href="#"><i class='   '></i></a>
+              <a href="#"><i class='   '></i></a>
+              <a href="#"><i class='   '></i></a>
+        </div>
+        
+        <span calss="home-imgHover"></span>
+
+     </section>
+
+
+</body>
